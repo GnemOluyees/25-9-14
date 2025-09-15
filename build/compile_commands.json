@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/gnem/Program/tetris/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris.dir/src/main.cpp.o -c /home/gnem/Program/tetris/src/main.cpp",
-  "file": "/home/gnem/Program/tetris/src/main.cpp"
-}
-]

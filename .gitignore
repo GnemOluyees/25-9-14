@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# below is the self-add
+
+# file
+build/
+
+! README.md
